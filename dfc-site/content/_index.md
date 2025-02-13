@@ -8,7 +8,6 @@ You can put whatever you want here.
 
 You can use shortcodes to display content on this page, too. This displays the current year:
 
-{{<year>}}
 
 To use markdown inside HTML, use the `md` shortcode.
 
